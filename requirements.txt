@@ -1,0 +1,5 @@
+selenium
+requests
+pyautogui
+memory-profiler
+webdriver_manager
